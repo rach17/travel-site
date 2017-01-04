@@ -1,6 +1,8 @@
 {
   "name": "travel-site",
   "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
   "dependencies": {
     "jquery": "^3.1.1",
     "normalize.css": "^5.0.0"
